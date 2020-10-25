@@ -30,6 +30,7 @@ public class hello {
 		avg = avg/n;
 
 		System.out.println("Average is " + avg);
+		System.out.println("123");
 		for(i = 0; i < n; i++) {
 			if (arr[i] >= avg) {
 
